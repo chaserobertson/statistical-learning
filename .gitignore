@@ -1,6 +1,8 @@
 *.DS_Store
 *.zip
 *.ipynb_checkpoints
+/exams
+/lectures
 
 # History files
 .Rhistory
